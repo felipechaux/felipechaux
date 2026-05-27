@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:00B4D8&height=190&section=header&text=Felipe%20Chaux&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Senior%20Mobile%20Developer%20%C2%B7%20Android%20%C2%B7%20iOS%20%C2%B7%20Kotlin%20Multiplatform&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Felipe Chaux — Senior Mobile Developer" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7F52FF&center=true&vCenter=true&width=620&lines=8%2B+years+building+mobile+apps;Kotlin+%C2%B7+Swift+%C2%B7+Flutter+%C2%B7+Compose+Multiplatform;One+codebase%2C+Android+%2B+iOS+with+KMP;Shipping+for+Disney+%26+Kanguro" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7F52FF&center=true&vCenter=true&width=700&lines=8%2B+years+building+mobile+apps;Kotlin+%C2%B7+Swift+%C2%B7+Flutter+%C2%B7+KMP;One+codebase%2C+Android+%2B+iOS;Shipping+for+Disney+%26+Kanguro" alt="Typing intro" />
 </a>
 
 <p>
