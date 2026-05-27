@@ -96,8 +96,8 @@ I care about the parts that outlast the first release: clean architecture, typed
       Claude Code skill for Kotlin Multiplatform + Compose Multiplatform — clean architecture, Koin, Ktor, Room — distilled from <em>Now in Android</em> and the official Google/JetBrains docs into something other devs can reuse.
     </td>
     <td valign="top" width="50%">
-      <strong><a href="https://github.com/felipechaux/kanguro-shared-kmp">kanguro-shared-kmp</a></strong><br/><br/>
-      Kotlin Multiplatform shared module powering the Kanguro Insurance iOS and Android apps. The real-world backbone behind the ~30% code-reuse work, distributed to iOS via Swift Package Manager.
+      <strong><a href="https://play.google.com/store/apps/details?id=com.chauxdevapps.dadomatch">DadoMatch</a></strong> · <code>📲 Google Play</code><br/><br/>
+      AI-powered icebreaker app — roll the dice, break the ice. Built solo and <strong>published on Google Play</strong>, with a Kotlin Multiplatform core (<a href="https://github.com/felipechaux/dado-match-shared">dado-match-shared</a>) shared across Android <em>and</em> iOS.
     </td>
   </tr>
   <tr>
@@ -112,7 +112,14 @@ I care about the parts that outlast the first release: clean architecture, typed
   </tr>
 </table>
 
-<p><sub>Also on the profile: <a href="https://github.com/felipechaux/CatWalletApp">CatWalletApp</a> (Kotlin) · <a href="https://github.com/felipechaux/DadoMatch">DadoMatch</a> (KMP) · <a href="https://github.com/felipechaux/paylink">paylink</a> & <a href="https://github.com/felipechaux/pokedex_app">pokedex_app</a> (Flutter)</sub></p>
+<p><sub>Also on the profile: <a href="https://github.com/felipechaux/dado-match-shared">dado-match-shared</a> (KMP core) · <a href="https://github.com/felipechaux/CatWalletApp">CatWalletApp</a> (Kotlin) · <a href="https://github.com/felipechaux/paylink">paylink</a> & <a href="https://github.com/felipechaux/pokedex_app">pokedex_app</a> (Flutter)</sub></p>
+
+<p align="center">
+  <strong>📲 Published on Google Play</strong><br/><br/>
+  <a href="https://play.google.com/store/apps/details?id=com.chauxdevapps.dadomatch"><img src="https://img.shields.io/badge/DadoMatch-Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="DadoMatch on Google Play" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.chauxdev.nasaapp"><img src="https://img.shields.io/badge/GalaxySnap-Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="GalaxySnap on Google Play" /></a>
+  <a href="https://play.google.com/store/apps/developer?id=ChauxDevApps"><img src="https://img.shields.io/badge/All%20apps-%40ChauxDevApps-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" alt="ChauxDevApps developer page" /></a>
+</p>
 
 ---
 
