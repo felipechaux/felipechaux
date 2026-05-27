@@ -148,8 +148,9 @@ I write about the real edges of cross-platform mobile — the stuff the happy-pa
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=felipechaux&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7F52FF&icon_color=00B4D8&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipechaux&layout=compact&hide_border=true&bg_color=0D1117&title_color=7F52FF&text_color=C9D1D9&langs_count=8" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=felipechaux&theme=github_dark" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipechaux&theme=github_dark" alt="Top languages by repo" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felipechaux&theme=github_dark" alt="Most used languages by commits" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipechaux&hide_border=true&background=0D1117&stroke=7F52FF&ring=00B4D8&fire=F05138&currStreakLabel=7F52FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub streak" />
 
